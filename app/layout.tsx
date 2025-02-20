@@ -8,11 +8,8 @@ import { ThemeProvider } from "@/components/theme-provider";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-    title: "Modifio - Free Unlimited File Converter",
-    description: `Unleash your creativity with Modifio – the ultimate online tool for
-  unlimited and free multimedia conversion. Transform images, audio, and
-  videos effortlessly, without restrictions. Start converting now and
-  elevate your content like never before!`,
+    title: "Convert Anything, Anywhere Free",
+    description: `Easily convert videos & images to any format in just a few clicks. Plus, generate perfect headings & descriptions effortlessly!`,
     creator: "SOUHAIL BEN-LHACHEMI",
     keywords: "image converter, video converter, audio converter, unlimited image converter, unlimited video converter",
 };
